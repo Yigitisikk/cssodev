@@ -1,0 +1,54 @@
+html{
+    text-align: center;
+    margin-left: auto;
+}
+section{
+    margin-left: 100px;
+    height: 144px;
+}
+p{
+    margin: 0;
+}
+.srchbr{
+    width: 309px;
+    height: 21;
+    margin: 0px;
+    border: 2;
+}
+.srch{
+    background:#EEEEEE;
+    height: 60px;
+    width: 1651.8px;
+    margin-bottom: 2px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 610px 322px 715px;
+    gap:2.5px;
+}
+.fdiv{
+    background-color: rgb(126, 229, 218);
+    width: 610.42px;
+    height: 74px;
+    padding: 1px;
+}
+.fdiv1{
+    margin-top: 7px;
+    text-align: center;
+}
+.sdiv{
+    background-color: rgb(112, 204, 194);
+    font-size: 13px; 
+}
+.sdiv1{
+    margin-top: 7px;
+    text-align: center;
+}
+.tdiv{
+    background-color: rgb(98, 179, 170);
+    font-size: 13px;   
+    text-align: center;
+}
+footer{
+    font-size: 13px;
+}
